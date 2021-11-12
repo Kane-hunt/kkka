@@ -4,7 +4,7 @@ int main() {
 	int at;
 	at = max();
 	/*int tat, a, b,c,min=0,max=0;
-	printf("ÇëÊäÈëaºÍbµÄÖµ\n");
+	printf("è¯·è¾“å…¥aå’Œbçš„å€¼\n");
 	tat = scanf_s("%d%d%d",&a,&b,&c);
 	//printf("%d\n", tat);
 	printf("\n%d,%d\n", a, b);
@@ -71,15 +71,15 @@ int main() {
 	switch (max)
 	{
 	case 10:
-		printf("Âú·Ö");
+		printf("æ»¡åˆ†");
 		break;
 	case 9:
 	case 8:
-		printf("ÓÅĞã");
+		printf("ä¼˜ç§€");
 		break;
 	case 7:
 	case 6:
-		printf("¼°¸ñ");
+		printf("åŠæ ¼");
 		break;
 	case 5:
 	case 4:
@@ -87,10 +87,10 @@ int main() {
 	case 2:
 	case 1:e
 	case 0:
-		printf("²»¼°¸ñ");
+		printf("ä¸åŠæ ¼");
 		break;
 	default:
-		printf("¸ñÊ½´íÎó£¡");
+		printf("æ ¼å¼é”™è¯¯ï¼");
 		break;
 	}*/
 	//return 0;

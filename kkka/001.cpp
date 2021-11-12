@@ -10,3 +10,15 @@ int max() {
 	}
 	return 0;
 }
+int min(int x, int y) {
+	if (x < y) {
+		return(printf("%d小", x));
+	}
+	else if(x > y){
+		return(printf("%d小", y));
+	}
+	else {
+		return(printf("两个数相同"));
+	}
+
+}
